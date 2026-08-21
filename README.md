@@ -1,5 +1,5 @@
  * **English**
- * [简体中文(Chinese Simplified)](https://github.com/yushijinhun/authlib-injector/blob/develop/README.md)
+ * [简体中文(Chinese Simplified)](https://github.com/ActuallyTrizon/authlib-injector/blob/develop/README.CN.md)
 
 # authlib-injector
 [![latest release](https://img.shields.io/github/v/tag/yushijinhun/authlib-injector?color=yellow&include_prereleases&label=version&sort=semver&style=flat-square)](https://github.com/yushijinhun/authlib-injector/releases)

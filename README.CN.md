@@ -1,4 +1,4 @@
- * [English](https://github.com/yushijinhun/authlib-injector/blob/develop/README.en.md)
+ * [English](https://github.com/ActuallyTrizon/authlib-injector/blob/develop/README.md)
  * **简体中文(Chinese Simplified)**
 
 # authlib-injector
